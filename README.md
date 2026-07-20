@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on Wildberries as a middle+ Data Scientist.
+- 🌱 I’m currently learning advanced AI-agents pipelines and RL.
+
 <!--
 **matvej-melikhov/matvej-melikhov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
